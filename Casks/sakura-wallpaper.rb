@@ -1,6 +1,6 @@
 cask "sakura-wallpaper" do
   version "1.0.0"
-  sha256 "3488e34468baafe2d262c9cad806028576614a2280f4f5458ab0d1a60de0abdb"
+  sha256 "358b8016bfbf13bf1c20cb3c5160c617e3739b2012435dbf776e8d42d9f49d57"
 
   url "https://github.com/yueseqaz/SakuraWallpaper/releases/download/v#{version}/SakuraWallpaper.dmg"
   name "SakuraWallpaper"
